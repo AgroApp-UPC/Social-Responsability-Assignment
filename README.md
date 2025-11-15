@@ -11,4 +11,4 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
-**📂 Repositorio de Código Fuente**: [Enlace al Repositorio]([https://github.com/yourusername/java-fundamentals-course-teamname](https://github.com/AgroApp-UPC/Social-Responsability-Assignment-Code))
+**📂 Repositorio de Código Fuente**: [Enlace al Repositorio](https://github.com/AgroApp-UPC/Social-Responsability-Assignment-Code)
