@@ -11,4 +11,11 @@ programación orientada a objetos. **¡No requiere descargas!** Solo abre tu nav
 
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
 
-**📂 Repositorio de Código Fuente**: [Enlace al Repositorio](https://github.com/AgroApp-UPC/Social-Responsability-Assignment-Code)
+**📂 Repositorio de Código Fuente**: [Enlace al repositorio](https://github.com/AgroApp-UPC/Social-Responsability-Assignment-Code/tree/main)
+
+## Secuencia de la Lección
+### Lección 1: ¿Qué es Java y la Programación? (7 minutos)
+- *Descripción*: Aprende qué es la programación, que es Java e imprimir mensajes
+- *Enlace*: [Ver la lección](https://youtu.be/0mCoRKcFo8I)
+- *Conclusiones clave*: Java se usa para aplicaciones y juegos; los programas son instrucciones para computadoras en una linea de tiempo
+- *Empieza a programar*: [Abrir Replit - Hola mundo](https://replit.com/@wanejhone/Leccion1?v=1)
